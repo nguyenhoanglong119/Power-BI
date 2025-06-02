@@ -25,13 +25,12 @@ Purpose: Defines and structures key business dimensions (e.g., Product, Brand, C
 
 Purpose: Provides a holistic view of sales and financial performance, tracking revenue, profit, sales volume, and customer demographics.
 Key Metrics: Total Revenue, Total Profit, Total Sales Volume.
-Screenshot: [Replace with link to image_a02457.png screenshot in your GitHub repo]
-
+![Business Analysis Report](business.png)
 + Marketing Analysis Report :
 
 Purpose: Focuses on marketing effectiveness, analyzing traffic acquisition, marketing costs, and their relationship with sales performance by product line and marketer.
 Key Metrics: Total Traffic, Total Marketing Cost, Total Sales Volume.
-Screenshot: [Replace with link to image_a02418.png screenshot in your GitHub repo]
+![Marketing Analysis Report](marketingreport.png) 
 
 Key Insights
 Based on the analysis presented in these reports, the following general insights were derived:
