@@ -19,7 +19,7 @@ This project includes the following interactive Power BI reports:
 + Concept Dimension System:
 
 Purpose: Defines and structures key business dimensions (e.g., Product, Brand, Customer Satisfaction, Location, Time, Marketing Source, Staff) to ensure consistent data modeling across all reports.
-Screenshot: [Replace with link to image_a024af.png screenshot in your GitHub repo]
+![Concept Dimension System](dimensionsystem.png)
 
 + Business Analysis Report :
 
