@@ -19,17 +19,21 @@ This project includes the following interactive Power BI reports:
 + Concept Dimension System:
 
 Purpose: Defines and structures key business dimensions (e.g., Product, Brand, Customer Satisfaction, Location, Time, Marketing Source, Staff) to ensure consistent data modeling across all reports.
+
 ![Concept Dimension System](dimensionsystem.png)
 
 + Business Analysis Report :
 
 Purpose: Provides a holistic view of sales and financial performance, tracking revenue, profit, sales volume, and customer demographics.
 Key Metrics: Total Revenue, Total Profit, Total Sales Volume.
+
 ![Business Analysis Report](business.png)
+
 + Marketing Analysis Report :
 
 Purpose: Focuses on marketing effectiveness, analyzing traffic acquisition, marketing costs, and their relationship with sales performance by product line and marketer.
 Key Metrics: Total Traffic, Total Marketing Cost, Total Sales Volume.
+
 ![Marketing Analysis Report](marketingreport.png) 
 
 Key Insights
