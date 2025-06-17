@@ -49,6 +49,3 @@ Traffic Volatility vs Revenue Stability: While overall revenue shows a relativel
 
 Cost-Effectiveness Optimization Opportunities: Although the Phone product line dominates in traffic and revenue, a deeper statistical analysis of marketing spend per product line (e.g., comparing Marketing Cost to Traffic or Revenue generated) could reveal opportunities to optimize ROI. For instance, smaller product lines might yield a higher return on marketing investment relative to their traffic or sales contribution.
 
-Project cuối khóa chính là cú hích để mình tổng hợp mọi thứ đã học, và tự tay hoàn thiện một dashboard có thể tự tin mang đi show với nhà tuyển dụng. Lúc nộp bài project, mình nhìn lại file mình làm và thật sự bất ngờ vì “Ồ, hóa ra mình làm được tới mức này rồi à!”
-
-Cảm ơn các anh/chị mentor của Bootcamp Power BI rất nhiều, đặc biệt là thầy Nguyễn Thanh Tú, và cảm ơn Fanpage Cole Data Engineer đã tạo nên một cộng đồng học tập vừa nghiêm túc, vừa rất chill và dễ thương 🧡
